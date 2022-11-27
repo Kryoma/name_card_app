@@ -3,4 +3,11 @@
     <string name="family_name_kubo">久保</string>
     <string name="first_name_ryoma">遼馬</string>
     <string name="profession">会社員</string>
+    <string name="email_address">ryoma.kuboshi@gmail.com</string>
+    <string name="phone_number">080-9166-5578</string>
+    <string name="twitter_id">kuuboozuu46</string>
+    <string name="my_address">東京都　江戸川区</string>
+    <string name="my_hobby">うんこ</string>
+    <string name="initialize">XXXXXXXX</string>
+
 </resources>
